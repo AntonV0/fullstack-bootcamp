@@ -1,3 +1,5 @@
+"""Configuration for the vendorEventRegister app."""
+
 from django.apps import AppConfig
 
 
